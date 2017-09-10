@@ -167,7 +167,7 @@ span.menu {
   -ms-transition: .5s all;
 }
 .about-section {
-  padding: 15em 0 4em;
+  padding: 4em 0 4em;
   background:#eee;
 }
 .about-img img {
@@ -192,12 +192,12 @@ span.menu {
 }
 .service-section {
   padding: 4em 0;
-  background:#37353b;
+  background:#ffffff;
  }
 .service-section h3 {
   font-size: 2.5em;
   text-transform: capitalize;
-  color: #fff;
+  color: #000000;
     margin: 0 17px;
 	font-family: 'Josefin Sans', sans-serif;
 	  font-weight: 600;
@@ -218,7 +218,7 @@ span.menu {
 .service-grid h4 {
   font-size: 1.5em;
   padding: 0.8em 0 0;
-  color: #fff;
+  color: #000000;
     font-weight: 600;
 }
 .service-grid p {
